@@ -1,7 +1,7 @@
 <h1 align="center">Rishini Dharan T</h1>
 
 <p align="center">
-  <b>AI engineer who ships.</b> HackIndia 2025 national winner · first-author IEEE paper · production generative-AI work at IdeaBoxAI.<br>
+  <b>AI engineer who ships.</b> HackIndia 2025 national winner (AI Track) · first-author IEEE paper · production generative-AI work at IdeaBoxAI.<br>
   B.Tech AI &amp; Data Science, graduating <b>May 2027</b> · open to <b>SDE-1</b> and <b>AI Engineer</b> roles, available to join right after.
 </p>
 
@@ -18,7 +18,7 @@
 
 | | |
 |---|---|
-| 🏆 **1st of 29,742** | Won **HackIndia 2025** nationals with [Q-Guardian OS](https://github.com/Rishini-Dharan/HackIndia2026), an AI security operations center whose UI rebuilds itself around each threat. |
+| 🏆 **National winner** | Won the **HackIndia 2025 AI Track** national finale with Q-Guardian, a behaviour-aware intrusion detection system that became my IEEE paper. |
 | 📄 **IEEE, first author** | [*Q-Guardian: Behaviour-Aware Cybersecurity Monitoring Using Hybrid Learning*](https://ieeexplore.ieee.org/document/11749134), IEEE AIDML 2026. Isolation Forest + Random Forest + a variational quantum circuit, mapped to MITRE ATT&CK. |
 | ⚡ **2 min → 20 s** | Built the skill editor for an enterprise generative-AI copilot at **IdeaBoxAI**, so non-engineers ship skills without a developer. |
 | 🧬 **Business DNA** | A Celery pipeline that turns a company's website into a 9-section profile and indexes its PDFs to ground copilot answers. |
@@ -29,7 +29,7 @@
 
 | Project | What it is | Proof |
 |---|---|---|
-| **[Q-Guardian OS](https://github.com/Rishini-Dharan/HackIndia2026)** | Java zero-allocation telemetry parser → ML detection → FastAPI WebSocket hub → LLM planner with Qdrant memory → React canvas that mounts widgets from JSON layout commands | [Live demo](https://rishini-dharan.github.io/HackIndia2026/) · HackIndia 2025 winner |
+| **[Q-Guardian OS](https://github.com/Rishini-Dharan/HackIndia2026)** | Java zero-allocation telemetry parser → ML detection → FastAPI WebSocket hub → LLM planner with Qdrant memory → React canvas that mounts widgets from JSON layout commands | [Live demo](https://rishini-dharan.github.io/HackIndia2026/) · HackIndia Spark-9 2026 |
 | **[M5 Forecasting Engine](https://github.com/Rishini-Dharan/m5_forecasting)** | 28-day forecasts for 30,490 Walmart series from 40 Tweedie LightGBM models, with what-if price scenarios; served predictions pinned to the trained models within 1e-9 | [Live demo](https://m5-forecasting-gules.vercel.app) · WRMSSE 145.6 |
 | **Deepfake Detection** | ResNeXt CNN + OpenCV with batched inference behind a React UI | 87% on 150+ videos · 13 s → 6 s per video |
 | **[Mining Emission & Filtration](https://github.com/Rishini-Dharan/HackIndia-Spark-1-2025-Nueral-Titans)** | Predicts CO₂ output and machine failure, then recommends a filter | HackIndia 2025 prelims winner · 66 ⭐ |
